@@ -1,1 +1,1 @@
-# Codeforces
+# Accepted problems of codeforces
