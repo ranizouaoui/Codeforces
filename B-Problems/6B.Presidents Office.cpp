@@ -9,7 +9,7 @@ int main()
     cin >> n >> m >> chr;
     char tab[n][m];
     char tab1[n * m];
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < n; i++) // input
     {
         for (int j = 0; j < m; j++)
         {
@@ -76,7 +76,7 @@ int main()
             }
         }
     }
-    cout << sum;
+    cout << sum; // output
 
     return 0;
 }
