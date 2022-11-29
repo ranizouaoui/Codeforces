@@ -53,6 +53,6 @@ int main()
             break;
         }
     }
-    cout << sum;
+    cout << sum;    //output
     return 0;
 }
